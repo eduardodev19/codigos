@@ -1,0 +1,14 @@
+* {
+    font-family:"DejaVus Sans", sans-serif;
+}
+
+.under {
+    text-decoration: underline;    
+}
+<!--Exemplo para retirar o sublinhado da palavra-->
+a {
+    text-decoration: none;
+}
+.disregard {
+    text-decoration: line-through;
+}

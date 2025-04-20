@@ -1,0 +1,27 @@
+body {
+    color: black !important;
+}
+
+.paragrafo {
+    color:blueviolet !important;
+}
+
+#paragrafo {
+    color:white !important;
+    font-size:larger;
+    background-color:chocolate !important;
+
+}
+
+.paragrafo {
+    color: black;
+    background-color:aqua !important;
+    
+}
+p {
+    color: blue;
+}
+p {
+    color: red;
+    background-color:coral
+}
